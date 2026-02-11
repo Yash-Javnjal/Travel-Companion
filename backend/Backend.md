@@ -1,11 +1,10 @@
----
 
-# 📘 Backend + Practice Foundation
-**Project:** Time-Based Travel Companion Platform
+# Project: Time-Based Travel Companion Platform
 
----
 
-## 🟢 PHASE 1 — Learn Node + Express Properly (Hands-On)
+<br>
+
+## PHASE 1 — Learn Node + Express Properly (Hands-On)
 
 Before building features, your team must understand:
 
