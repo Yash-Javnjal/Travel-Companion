@@ -99,7 +99,7 @@ export default function Register({ onToggle }) {
                         required
                         value={confirmPassword}
                         onChange={(e) => setConfirmPassword(e.target.value)}
-                        placeholder="••••••••"
+                        placeholder="********"
                     />
                 </div>
 
